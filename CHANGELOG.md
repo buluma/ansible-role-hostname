@@ -8,6 +8,10 @@
 
 - Add to tracker [\#1](https://github.com/buluma/ansible-role-hostname/issues/1)
 
+**Merged pull requests:**
+
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.4 to 1.0.5 [\#2](https://github.com/buluma/ansible-role-hostname/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [0.1.1](https://github.com/buluma/ansible-role-hostname/tree/0.1.1) (2022-04-15)
 
 [Full Changelog](https://github.com/buluma/ansible-role-hostname/compare/0.1.0...0.1.1)
