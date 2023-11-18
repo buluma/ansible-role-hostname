@@ -1,10 +1,10 @@
-# [hostname](#hostname)
+# [Ansible role hostname](#hostname)
 
 Install dependencies and configure the hostname on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-hostname/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-hostname/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-hostname/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-hostname)|[![quality](https://img.shields.io/ansible/quality/58802)](https://galaxy.ansible.com/buluma/hostname)|[![downloads](https://img.shields.io/ansible/role/d/58802)](https://galaxy.ansible.com/buluma/hostname)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-hostname.svg)](https://github.com/buluma/ansible-role-hostname/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-hostname.svg)](https://github.com/buluma/ansible-role-hostname/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-hostname.svg)](https://github.com/buluma/ansible-role-hostname/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-hostname/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-hostname/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-hostname/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-hostname)|[![downloads](https://img.shields.io/ansible/role/d/4731)](https://galaxy.ansible.com/buluma/hostname)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-hostname.svg)](https://github.com/buluma/ansible-role-hostname/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-hostname.svg)](https://github.com/buluma/ansible-role-hostname/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-hostname.svg)](https://github.com/buluma/ansible-role-hostname/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -85,7 +85,7 @@ This role has been tested on these [container images](https://hub.docker.com/u/b
 |[opensuse](https://hub.docker.com/repository/docker/buluma/opensuse/general)|all|
 |[Ubuntu](https://hub.docker.com/repository/docker/buluma/ubuntu/general)|all|
 
-The minimum version of Ansible required is 2.10, tests have been done to:
+The minimum version of Ansible required is 2.12, tests have been done to:
 
 - The previous version.
 - The current version.
