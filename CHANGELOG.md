@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-hostname/tree/HEAD)
+## [0.2.0](https://github.com/buluma/ansible-role-hostname/tree/0.2.0) (2024-01-02)
 
-[Full Changelog](https://github.com/buluma/ansible-role-hostname/compare/0.1.3...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-hostname/compare/0.1.3...0.2.0)
 
 **Closed issues:**
 
