@@ -5,4 +5,4 @@
 repository:
   description: Install dependencies and configure the hostname on your system.
   homepage: https://buluma.github.io/
-  topics: hostname, ansible, molecule, tox, playbook
+  topics: hostname, ansible, molecule, playbook
