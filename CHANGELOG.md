@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-hostname/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-hostname/compare/24.3.31...HEAD)
+
+**Closed issues:**
+
+- Update action [\#11](https://github.com/buluma/ansible-role-hostname/issues/11)
+- rebuild action [\#10](https://github.com/buluma/ansible-role-hostname/issues/10)
+
 ## [24.3.31](https://github.com/buluma/ansible-role-hostname/tree/24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-hostname/compare/0.3.0...24.3.31)
