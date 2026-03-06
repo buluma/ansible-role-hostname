@@ -9,6 +9,10 @@
 - Update action [\#11](https://github.com/buluma/ansible-role-hostname/issues/11)
 - rebuild action [\#10](https://github.com/buluma/ansible-role-hostname/issues/10)
 
+**Merged pull requests:**
+
+- Bump docker/setup-buildx-action from 3 to 4 [\#24](https://github.com/buluma/ansible-role-hostname/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [24.3.31](https://github.com/buluma/ansible-role-hostname/tree/24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-hostname/compare/0.3.0...24.3.31)
