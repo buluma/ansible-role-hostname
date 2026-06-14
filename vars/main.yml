@@ -10,5 +10,5 @@ _hostname_requirements:
     - net-tools
 
 hostname_requirements:
-  "{{ _hostname_requirements[ansible_distribution ~ '-' ~ ansible_distribution_major_version] | default(_hostname_requirements[ansible_distribution]
+  "{{ _hostname_requirements[ansible_facts.distribution ~ '-' ~ ansible_facts.distribution_major_version] | default(_hostname_requirements[ansible_facts.distribution]
   | default(_hostname_requirements['default'] )) }}"
